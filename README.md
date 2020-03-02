@@ -1,5 +1,7 @@
 # Code 201 Reading Notes
 
+These are my *notes* for **201 reading**. ~~Strike Through~~
+
 ## Table of Contents
 * [Reading 1](https://pale-crusader.github.io/reading-notes/reading-01)
 * [Reading 2](https://pale-crusader.github.io/reading-notes/reading-02)
