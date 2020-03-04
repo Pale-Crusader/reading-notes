@@ -1,5 +1,7 @@
 # Code 201 Reading Notes
 
+* [Link to 201 Day 1 Notes](https://pale-crusader.github.io/learning-journal/201)
+* [Link to Week 1 Guessing Game Project](https://pale-crusader.github.io/guessing-game)
 
 These are my *notes* for **201 reading**. ~~Strike Through~~
 

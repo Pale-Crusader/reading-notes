@@ -1,5 +1,7 @@
 # Reading 1
 
+* [Link Back to Reading Notes Main](https://pale-crusader.github.io/reading-notes)
+
 ## HTML
 * Hyper Text Markup Language
 * Defines the structure of the webpage
