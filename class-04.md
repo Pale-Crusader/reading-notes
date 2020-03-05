@@ -111,3 +111,12 @@ Covered this in 102 but a function is; function keyword then function name then 
 sayHello();
 
 See 102 learning journal notes. 
+
+## Articles main points way using team work and learning as a linguistic pair is valuable
+
+1. Greater efficiency
+2. Engaged collaboration
+3. Learning from fellow students
+4. Social skills
+5. Job interview readiness
+6. Work environment readiness
