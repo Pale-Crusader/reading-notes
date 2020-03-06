@@ -25,7 +25,7 @@
 	    	<dt>dataterm<</dt>
 	    	<dt>dataterm</dt>
 	    	<dd>defintionofaboveterm</dd>
-    	</dl>```
+    t 	</dl>```
 *lists can be nested just like word docs
 
 ### Box model of HTML
